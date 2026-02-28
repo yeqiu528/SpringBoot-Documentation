@@ -1,2 +1,2 @@
 # SpringBoot-Documentation
-Practice Repo
+Practice Repository
